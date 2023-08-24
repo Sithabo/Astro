@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    font-family: Roboto;
+    overflow:visible;
+}
+nav {
+    background-color: hsl(0deg 29% 90% / 70%);
+    padding: 40px;
+}
+
+header {
+    display: flex;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/009/273/280/original/concept-of-loneliness-and-disappointment-in-love-sad-man-sitting-element-of-the-picture-is-decorated-by-nasa-free-photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 100px;
+    border: 12px double;
+    padding: 50px 10px;
+    color: #fcfcfc;
+    display: inline;
+}
+
+h2 {
+    font-size: 6vw;
+    text-align: center;
+}
+
+main {
+    background-color: #f3eded;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+p {
+    padding: 4vw 4vw;
+    text-align: justify;
+    word-spacing: 1px;
+    line-height: 25px;
+}
+/*------------------------------
+Container css
+--------------------------------*/
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.containerCard {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background: black;
+    height: 315px;
+    width: 264px;
+    border-radius: 15px;
+    justify-content: center;
+    margin: 20px;
+    background-color: #f3eded;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.large{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: 100%;
+    border-radius: 15px;
+    justify-content: center;
+    background-color: #f3eded;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 10px;
+    margin: 20px;
+}
+
+/*------------------------------
+Media Queries
+--------------------------------*/
+@media only screen and (max-width: 768px){
+    h1 {
+        font-size: 60px;
+    }
+    
+    h2 {
+        font-size: 43px;
+    }
+}
+
+@media only screen and (min-width: 1024px){
+    h1 {
+        font-size: 8vw;
+    }
+    p {
+        word-spacing: 7px;
+        line-height: 36px;
+        font-size: 25px;
+    }
+}
