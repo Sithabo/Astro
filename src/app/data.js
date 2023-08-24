@@ -45,7 +45,7 @@ export default function Data() {
                         <span>{`Date Posted: ${data.date}`}</span>
                     </div>
                     <div style={{ paddingTop: '10px'}}>
-                        <a href={data.hdurl}><img src={data.url} alt='space from far far away :)'></img></a>
+                        <a href={data.hdurl}><img src={data.hdurl} alt='space from far far away :)'></img></a>
                         <p>{data.explanation}</p>
                     </div>
                         <aside style={{color: 'hsl(0deg 4% 55% / 70%)'}}>{ '©' + data.copyright}</aside> 
