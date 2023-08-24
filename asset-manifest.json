@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/astro/static/css/main.ec9f4f9e.css",
-    "main.js": "/astro/static/js/main.c1a6685f.js",
-    "static/js/787.d3befce1.chunk.js": "/astro/static/js/787.d3befce1.chunk.js",
-    "index.html": "/astro/index.html",
-    "main.ec9f4f9e.css.map": "/astro/static/css/main.ec9f4f9e.css.map",
-    "main.c1a6685f.js.map": "/astro/static/js/main.c1a6685f.js.map",
-    "787.d3befce1.chunk.js.map": "/astro/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "/Astro/static/css/main.ec9f4f9e.css",
+    "main.js": "/Astro/static/js/main.fea3cec2.js",
+    "static/js/787.d3befce1.chunk.js": "/Astro/static/js/787.d3befce1.chunk.js",
+    "index.html": "/Astro/index.html",
+    "main.ec9f4f9e.css.map": "/Astro/static/css/main.ec9f4f9e.css.map",
+    "main.fea3cec2.js.map": "/Astro/static/js/main.fea3cec2.js.map",
+    "787.d3befce1.chunk.js.map": "/Astro/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec9f4f9e.css",
-    "static/js/main.c1a6685f.js"
+    "static/js/main.fea3cec2.js"
   ]
 }
