@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Astro/static/css/main.9a8b16b0.css",
-    "main.js": "/Astro/static/js/main.7bfd1e06.js",
+    "main.js": "/Astro/static/js/main.9131d5f0.js",
     "static/js/787.d3befce1.chunk.js": "/Astro/static/js/787.d3befce1.chunk.js",
     "static/media/Apercu Italic.otf": "/Astro/static/media/Apercu Italic.b47cb3b6597e04b3b401.otf",
     "static/media/Apercu Bold Italic.otf": "/Astro/static/media/Apercu Bold Italic.9a100ce5ff73b69f88c4.otf",
@@ -12,11 +12,11 @@
     "static/media/Apercu Mono.otf": "/Astro/static/media/Apercu Mono.0c31ab100ba7ad41953a.otf",
     "index.html": "/Astro/index.html",
     "main.9a8b16b0.css.map": "/Astro/static/css/main.9a8b16b0.css.map",
-    "main.7bfd1e06.js.map": "/Astro/static/js/main.7bfd1e06.js.map",
+    "main.9131d5f0.js.map": "/Astro/static/js/main.9131d5f0.js.map",
     "787.d3befce1.chunk.js.map": "/Astro/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a8b16b0.css",
-    "static/js/main.7bfd1e06.js"
+    "static/js/main.9131d5f0.js"
   ]
 }
