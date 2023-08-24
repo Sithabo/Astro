@@ -1,6 +1,5 @@
 import './App.css';
 import styles from './data.module.css'
-import 'boxicons';
 import { useEffect, useState } from 'react'; 
 
 export default function Data() {
@@ -30,9 +29,7 @@ export default function Data() {
             })
         }, []
     )
-        const padding = {
-            paddingTop: 10
-        }
+        
     return (
         <main>
             <div className={styles.container}>
@@ -40,7 +37,7 @@ export default function Data() {
                 <div className="container-card"></div>
                 <div className="container-card"></div>
             </div>
-            <div>
+            <div style={{paddingBottom: 10}}>
                 <div className={styles.large}>
                     <div>
                         <h2>Astro Picture of the Day</h2>
@@ -48,7 +45,7 @@ export default function Data() {
                         <span>{`Date Posted: ${data.date}`}</span>
                     </div>
                     <div style={{ paddingTop: '10px'}}>
-                        <a href={data.hdurl}><img src={data.url} alt='image from far far away :)'></img></a>
+                        <a href={data.hdurl}><img src={data.url} alt='space from far far away :)'></img></a>
                         <p>{data.explanation}</p>
                     </div>
                         <aside style={{color: 'hsl(0deg 4% 55% / 70%)'}}>{ '©' + data.copyright}</aside> 
