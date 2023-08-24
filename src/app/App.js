@@ -19,7 +19,6 @@ function App() {
     <>
       <Header />
       <Data />
-      
       {/*<RouterProvider router={route} />*/}
     </>
   );
