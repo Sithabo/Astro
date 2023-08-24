@@ -6,7 +6,7 @@ import Data from './data';
 
   const route = createBrowserRouter(createRoutesFromElements(
     <Route path='/' element={ <Root />}>
-      <Route path='/Astro' element={ <Data />} />
+      <Route path='Astro/' element={ <Data />} />
     </Route>
   ))
 function App() {
