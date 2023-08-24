@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/Astro/static/css/main.ec9f4f9e.css",
-    "main.js": "/Astro/static/js/main.fea3cec2.js",
+    "main.css": "/Astro/static/css/main.9a8b16b0.css",
+    "main.js": "/Astro/static/js/main.0a51bb58.js",
     "static/js/787.d3befce1.chunk.js": "/Astro/static/js/787.d3befce1.chunk.js",
+    "static/media/Apercu Italic.otf": "/Astro/static/media/Apercu Italic.b47cb3b6597e04b3b401.otf",
+    "static/media/Apercu Bold Italic.otf": "/Astro/static/media/Apercu Bold Italic.9a100ce5ff73b69f88c4.otf",
+    "static/media/Apercu Medium.otf": "/Astro/static/media/Apercu Medium.aedaec26a758f9fbd8d4.otf",
+    "static/media/Apercu Medium Italic.otf": "/Astro/static/media/Apercu Medium Italic.a9059a6171df6996e950.otf",
+    "static/media/Apercu Bold.otf": "/Astro/static/media/Apercu Bold.49e3b9c981f064376dcf.otf",
+    "static/media/Apercu Light.otf": "/Astro/static/media/Apercu Light.3135dba7ca42dc6207cf.otf",
+    "static/media/Apercu Mono.otf": "/Astro/static/media/Apercu Mono.0c31ab100ba7ad41953a.otf",
     "index.html": "/Astro/index.html",
-    "main.ec9f4f9e.css.map": "/Astro/static/css/main.ec9f4f9e.css.map",
-    "main.fea3cec2.js.map": "/Astro/static/js/main.fea3cec2.js.map",
+    "main.9a8b16b0.css.map": "/Astro/static/css/main.9a8b16b0.css.map",
+    "main.0a51bb58.js.map": "/Astro/static/js/main.0a51bb58.js.map",
     "787.d3befce1.chunk.js.map": "/Astro/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec9f4f9e.css",
-    "static/js/main.fea3cec2.js"
+    "static/css/main.9a8b16b0.css",
+    "static/js/main.0a51bb58.js"
   ]
 }
